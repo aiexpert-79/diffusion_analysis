@@ -240,28 +240,3 @@ We collected all images from the official Stable Diffusion Discord server. Pleas
 ## Data Removal
 
 If you find any harmful images or prompts in DiffusionDB, you can use [this Google Form](https://forms.gle/GbYaSpRNYqxCafMZ9) to report them. Similarly, if you are a creator of an image included in this dataset, you can use the [same form](https://forms.gle/GbYaSpRNYqxCafMZ9) to let us know if you would like to remove your image from DiffusionDB. We will closely monitor this form and update DiffusionDB periodically.
-
-## Credits
-
-DiffusionDB is created by [Jay Wang](https://zijie.wang), [Evan Montoya](https://www.linkedin.com/in/evan-montoya-b252391b4/), [David Munechika](https://www.linkedin.com/in/dmunechika/), [Alex Yang](https://alexanderyang.me), [Ben Hoover](https://www.bhoov.com), [Polo Chau](https://faculty.cc.gatech.edu/~dchau/).
-
-## Citation
-
-```bibtex
-@article{wangDiffusionDBLargescalePrompt2022,
-  title = {{{DiffusionDB}}: {{A}} Large-Scale Prompt Gallery Dataset for Text-to-Image Generative Models},
-  author = {Wang, Zijie J. and Montoya, Evan and Munechika, David and Yang, Haoyang and Hoover, Benjamin and Chau, Duen Horng},
-  year = {2022},
-  journal = {arXiv:2210.14896 [cs]},
-  url = {https://arxiv.org/abs/2210.14896}
-}
-```
-
-## Licensing
-
-The DiffusionDB dataset is available under the [CC0 1.0 License](https://creativecommons.org/publicdomain/zero/1.0/).
-The Python code in this repository is available under the [MIT License](./LICENSE).
-
-## Contact
-
-If you have any questions, feel free to [open an issue](https://github.com/poloclub/diffusiondb/issues/new) or contact [Jay Wang](https://zijie.wang).
